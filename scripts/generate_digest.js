@@ -38,14 +38,13 @@ const AMBER_WATCH = "9C6F00";
 // CONTENT — edit this block each morning with fresh research
 // ---------------------------------------------------------------------------
 const CONTENT = {
-  dateLabel: "Saturday, 15 August 2026",
-  editionNo: "Vol. I — Edition 025",
+  dateLabel: "Sunday, 16 August 2026",
+  editionNo: "Vol. I — Edition 026",
 
   execSummary: [
-    { tag: "HIGH", color: RED_RISK, text: "The Supreme Court has extended the deadline for GBA's five-corporation civic elections for a THIRD time — from 31 August to 31 December 2026 — citing the ongoing Special Intensive Revision (SIR) of electoral rolls (expected to conclude only by November), while issuing a stern warning that no further extension will be granted. Karnataka BJP has separately filed a Supreme Court plea alleging the Congress state government deliberately delayed the polls fearing electoral loss." },
-    { tag: "INFO", color: NAVY, text: "Representatives from several Telangana districts have asked the state government to expand HYDRAA statewide to fight lake/land encroachments, meeting Commissioner Ranganath directly on 12 Aug — a fresh institutional-growth signal running alongside the ongoing removal-order appeal and contempt proceedings already on file." },
+    { tag: "WATCH", color: AMBER_WATCH, text: "A new Hyderabad-Amaravati-Chennai bullet train (high-speed rail) corridor — 760 km, 18 stations, ~₹2.24 lakh Cr — has been detailed as part of the Union Budget 2026-27's seven new HSR corridors, cutting across Telangana (180 km), Andhra Pradesh (518 km, incl. Amaravati, Guntur, Nellore, Tirupati stations) and Tamil Nadu (61 km, incl. Chennai). NHSRCL has begun DPR work (targeted for completion by March 2027); land acquisition, funding and construction programme are still to be finalised." },
     { tag: "INFO", color: NAVY, text: "No public BDA response yet to the BBC Governor petition or the Madavara High Court petition; Phase 1 land acquisition remains at ~83% complete." },
-    { tag: "INFO", color: NAVY, text: "A quiet Independence Day holiday otherwise: no new NBR-specific news, fresh Grade A/mid-tier Bengaluru land deal, or new Karnataka HC ruling since yesterday." },
+    { tag: "INFO", color: NAVY, text: "A quiet Sunday otherwise: no new NBR-specific news, fresh Grade A/mid-tier Bengaluru land deal, or new Karnataka HC ruling since yesterday." },
   ],
 
   layer1: {
@@ -139,10 +138,12 @@ const CONTENT = {
       ["Listed developers (South India, FY26)", "Chennai & Hyderabad", "5 land deals each in Chennai (74+ acres) and Hyderabad (~38 acres) among listed players in FY26; Coimbatore also saw listed-player activity.", "~112 acres combined (Chennai+Hyderabad)"],
       ["Casagrand", "Chennai (HQ) + Bengaluru expansion", "Continues multi-city project delivery (incl. Casagrand Moondance, Bengaluru) alongside a K-RERA GST-refund enforcement order in Bengaluru this week.", "Multi-project, multi-city — under K-RERA enforcement"],
       ["Sumadhura Group", "Bengaluru + Hyderabad", "New plotted-development vertical (~₹1,500 Cr topline target) adds to its concurrent Bengaluru/Hyderabad pipeline, reinforcing cross-city land banking by mid-tier South India players.", "New plotted vertical, ~₹1,500 Cr target"],
+      ["Hyderabad-Amaravati-Chennai Bullet Train (NHSRCL)", "Telangana (180 km) + Andhra Pradesh (518 km) + Tamil Nadu (61 km)", "One of seven new HSR corridors from Union Budget 2026-27; 18 stations incl. Hyderabad, Amaravati, Guntur, Nellore, Tirupati and Chennai. DPR work underway (target Mar 2027); land acquisition, funding and construction programme not yet finalised.", "760 km, ~₹2.24 lakh Cr — pre-land-acquisition planning stage"],
     ],
     recommendations: [
       { head: "Regional Positioning", color: NAVY, items: [
         "District-level demand to expand HYDRAA statewide — arriving even as its leadership faces an active legal challenge — suggests the enforcement model has institutional staying power beyond the current commissioner dispute; if the mandate does expand, treat Telangana land diligence outside Hyderabad's core region as a forward-looking watch item. Section 22A land-freeze designations remain a distinct, separate Hyderabad diligence risk regardless of how the appeal resolves.",
+        "The Hyderabad-Amaravati-Chennai bullet train corridor is still at the DPR stage (target March 2027) with no land-acquisition programme yet finalised — too early for NBR to act on, but worth tracking as it could eventually generate fresh land-acquisition and compensation activity along the Telangana/AP/TN route, similar to what Amaravati's own capital build-out has produced.",
         "Amaravati's confirmed August 2028 Phase 1 completion target gives NBR a concrete multi-year horizon for the capital's build-out — useful context for any long-horizon AP market-entry discussion, though near-term land-pooling consent (Kantheru still undecided) remains the item to actually track.",
         "Kerala's \"Land Reforms 2.0\" is now shown to be genuinely contested (encroachment/resort-benefit allegations vs. the initiative's pro-farmer framing) — track which direction the expert committee leans rather than assume a straightforwardly pro-farmer outcome.",
       ]},
@@ -263,6 +264,7 @@ const CONTENT = {
     "The South First / LiveLaw / Deccan Herald — Supreme Court GBA election-deadline extension to 31 December 2026 (SIR of electoral rolls) coverage",
     "The Hans India — BJP Supreme Court plea for immediate BBMP/GBA elections coverage",
     "NewsMeter — Telangana districts' request for statewide HYDRAA expansion coverage",
+    "Trade Brains / Business Today / The South First — Hyderabad-Amaravati-Chennai bullet train corridor (Budget 2026-27, 760 km, 18 stations) coverage",
   ],
 };
 
