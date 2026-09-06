@@ -38,12 +38,12 @@ const AMBER_WATCH = "9C6F00";
 // CONTENT — edit this block each morning with fresh research
 // ---------------------------------------------------------------------------
 const CONTENT = {
-  dateLabel: "Saturday, 5 September 2026",
-  editionNo: "Vol. I — Edition 039",
+  dateLabel: "Sunday, 6 September 2026",
+  editionNo: "Vol. I — Edition 040",
 
   execSummary: [
-    { tag: "INFO", color: NAVY, text: "A quiet news day across every tracked thread: no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC ruling since the Amit Garg K-RERA Registry decision, no public BDA response to the BBC Governor petition, no update on the GBA/SIR election timeline since yesterday, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
-    { tag: "INFO", color: NAVY, text: "Background enrichment: Shriram Properties' Sarjapur Main Road land purchase (~4 acres, ~₹550-600 Cr GDV, ~0.5 msf, announced 16 Feb 2026) — a South-East Bengaluru parcel near Whitefield/Varthur/ORR and the upcoming Dommasandra Metro station — had not previously been captured in this tracker; it is now added to Shriram's profile as historical context, not fresh news." },
+    { tag: "WATCH", color: AMBER_WATCH, text: "JLL data for the quarter ended June 2026 shows Bengaluru's unsold housing inventory has crossed Mumbai's for the first time — ~84,000 unsold units, a 32-month inventory overhang, now India's second-highest after the NCR. This is a market-level demand-supply signal distinct from the land-acquisition/regulatory threads normally tracked here, and worth factoring into NBR's own absorption-rate and launch-pacing assumptions." },
+    { tag: "INFO", color: NAVY, text: "Otherwise a quiet day: no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC ruling since the Amit Garg K-RERA Registry decision, no public BDA response to the BBC Governor petition, no update on the GBA/SIR election timeline, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
   ],
 
   layer1: {
@@ -132,6 +132,7 @@ const CONTENT = {
         "The BBC dormancy challenge uses the SAME legal doctrine (lapsed/dormant acquisition notification) that has repeatedly succeeded for landowners in NICE/BMICP, Hosahalli and the 2001/2004 BDA annulment — treat any NBR-adjacent parcel with an old, unexecuted acquisition notation in its history as carrying real challenge risk, in either direction depending on NBR's position.",
       ]},
       { head: "Competitive Positioning", color: GREEN_POS, items: [
+        "Bengaluru's unsold housing inventory (~84,000 units, 32-month overhang per JLL's Q2 2026 data) now exceeds Mumbai's for the first time — a citywide oversupply signal that sits in tension with the continued brisk land-acquisition pace among Grade A peers; NBR should treat aggressive land-banking by competitors as a signal of competitive positioning, not necessarily of matching end-market absorption strength, when calibrating its own launch timing.",
         "Puravankara's 5th FY27 land deal (7.83 acres, South-East Bengaluru/Electronic City corridor) and Brigade's fresh 2-acre Whitefield buy show Grade A land-acquisition activity remains brisk even as this quarter's pre-sales picture is genuinely mixed — capital deployment into new land has not slowed despite softer volumes at some peers (Prestige, Brigade itself).",
         "Godrej's ~3.8-acre Sarjapur Road acquisition (30-acre combined tract) and Sumadhura's ~₹6,000 Cr / 90-acre / 6-project Bengaluru pipeline, both from the prior edition, remain the most concrete land-banking data points this month — reinforcing Sarjapur Road specifically as an increasingly contested corridor for NBR.",
         "With Brigade's results now in, this Q1 FY27 earnings season is a genuine 3-vs-2 split, not a single-peer outlier: Godrej (+22%), Sobha (+76%) and Puravankara (+28%) all grew pre-sales, while Prestige (~-46%) and Brigade (-22.1% volume) both declined even as their realisation and profit rose — correct any prior assumption that Bengaluru Grade A demand is uniformly strong this quarter; NBR's own near-term absorption-rate planning should reflect this genuinely mixed picture.",
@@ -303,6 +304,7 @@ const CONTENT = {
     "Namma Guide / GBA official (X/Twitter) — Karnataka SIR 2026 revised electoral-roll schedule coverage",
     "NewsMeter / The Hans India — Telangana HC stay on HYDRAA Commissioner Ranganath removal-order coverage",
     "Business Standard / Tribune India / ConstructionWorld — Shriram Properties Sarjapur Main Road 4-acre land-purchase coverage",
+    "JLL / Business Standard — Bengaluru Q2 2026 unsold-housing-inventory-overtakes-Mumbai coverage",
     "NewsMeter — Telangana districts' request for statewide HYDRAA expansion coverage",
     "Trade Brains / Business Today / The South First — Hyderabad-Amaravati-Chennai bullet train corridor (Budget 2026-27, 760 km, 18 stations) coverage",
     "Telangana Today / NewsMeter / Hyderabad Mail — Telangana HC demolition-restraint order on HYDRAA (no SOP filed) coverage",
