@@ -38,14 +38,11 @@ const AMBER_WATCH = "9C6F00";
 // CONTENT — edit this block each morning with fresh research
 // ---------------------------------------------------------------------------
 const CONTENT = {
-  dateLabel: "Tuesday, 8 September 2026",
-  editionNo: "Vol. I — Edition 042",
+  dateLabel: "Wednesday, 9 September 2026",
+  editionNo: "Vol. I — Edition 043",
 
   execSummary: [
-    { tag: "WATCH", color: AMBER_WATCH, text: "The state issued a final land-acquisition notification (5 Sept 2026) for 1,427.34 acres across 31 villages for a 52-km southern road — Mysuru Road to Hosur Road via Jigani/Bommasandra/Attibele — reported under the SAME name, \"Bengaluru Business Corridor,\" and also as \"Peripheral Ring Road-2.\" This routing is materially different from the 74-km ex-PRR corridor already tracked in this digest (Tumakuru Road–Hosur Road, ~1,810 acres). We are flagging the naming overlap rather than resolving it — legal team should clarify with BDA/BBCL whether this is a genuinely distinct southern corridor or an inconsistently-reported update to the tracked project, since NBR-adjacent-parcel risk assessment depends on which is correct." },
-    { tag: "INFO", color: NAVY, text: "Otherwise a quiet day: no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no public BDA response to the original BBC Governor petition, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
-    { tag: "INFO", color: NAVY, text: "Otherwise a quiet day: no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling directly on file since the Amit Garg K-RERA Registry decision, no public BDA response to the BBC Governor petition, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
-    { tag: "INFO", color: NAVY, text: "Otherwise a quiet day: no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC ruling since the Amit Garg K-RERA Registry decision, no public BDA response to the BBC Governor petition, no update on the GBA/SIR election timeline, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
+    { tag: "INFO", color: NAVY, text: "A quiet news day across every tracked thread: no update on yesterday's flagged \"Bengaluru Business Corridor\" (South) / Peripheral Ring Road-2 naming-ambiguity question, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no public BDA response to the original BBC Governor petition, no guidance-value or e-Khata policy change, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
   ],
 
   layer1: {
