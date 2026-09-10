@@ -38,11 +38,11 @@ const AMBER_WATCH = "9C6F00";
 // CONTENT — edit this block each morning with fresh research
 // ---------------------------------------------------------------------------
 const CONTENT = {
-  dateLabel: "Wednesday, 9 September 2026",
-  editionNo: "Vol. I — Edition 043",
+  dateLabel: "Thursday, 10 September 2026",
+  editionNo: "Vol. I — Edition 044",
 
   execSummary: [
-    { tag: "INFO", color: NAVY, text: "A quiet news day across every tracked thread: no update on yesterday's flagged \"Bengaluru Business Corridor\" (South) / Peripheral Ring Road-2 naming-ambiguity question, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no public BDA response to the original BBC Governor petition, no guidance-value or e-Khata policy change, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
+    { tag: "INFO", color: NAVY, text: "Another quiet news day across every tracked thread: no update on the flagged \"Bengaluru Business Corridor\" (South) / Peripheral Ring Road-2 naming-ambiguity question, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no public BDA response to the original BBC Governor petition, no guidance-value or e-Khata policy change, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
   ],
 
   layer1: {
