@@ -38,11 +38,11 @@ const AMBER_WATCH = "9C6F00";
 // CONTENT — edit this block each morning with fresh research
 // ---------------------------------------------------------------------------
 const CONTENT = {
-  dateLabel: "Monday, 14 September 2026",
-  editionNo: "Vol. I — Edition 048",
+  dateLabel: "Tuesday, 15 September 2026",
+  editionNo: "Vol. I — Edition 049",
 
   execSummary: [
-    { tag: "INFO", color: NAVY, text: "A quiet news day across every tracked thread: no update on yesterday's Siddhartha Vihar Trust BDA complaint, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no update on the flagged BBC (South)/Peripheral Ring Road-2 naming-ambiguity question, no public BDA response to the original BBC Governor petition, no guidance-value gazette notification (still pending, unchanged from June 2026 status), and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
+    { tag: "INFO", color: NAVY, text: "A quiet news day across every tracked thread: no update on the Siddhartha Vihar Trust BDA complaint, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no update on the flagged BBC (South)/Peripheral Ring Road-2 naming-ambiguity question, no public BDA response to the original BBC Governor petition, no guidance-value gazette notification, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
   ],
 
   layer1: {
