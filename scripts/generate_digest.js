@@ -38,12 +38,11 @@ const AMBER_WATCH = "9C6F00";
 // CONTENT — edit this block each morning with fresh research
 // ---------------------------------------------------------------------------
 const CONTENT = {
-  dateLabel: "Thursday, 17 September 2026",
-  editionNo: "Vol. I — Edition 051",
+  dateLabel: "Friday, 18 September 2026",
+  editionNo: "Vol. I — Edition 052",
 
   execSummary: [
-    { tag: "INFO", color: NAVY, text: "The Karnataka HC-cleared public-application phase for Dr K Shivaram Karanth Layout (flagged as pending in earlier editions) has been formalised: BDA's 31 Aug 2026 notification lists 2,815 sites for general-public allotment, with online applications open until 15 Oct 2026, 12 noon. The HC has clarified that accepting applications does NOT amount to permission for actual allotment — the existing interim restriction on allotment itself continues until further court orders." },
-    { tag: "INFO", color: NAVY, text: "Otherwise a quiet day: no update on the Siddhartha Vihar Trust BDA complaint, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no update on the flagged BBC (South)/Peripheral Ring Road-2 naming-ambiguity question, no public BDA response to the original BBC Governor petition, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
+    { tag: "INFO", color: NAVY, text: "A quiet news day across every tracked thread: no update on the Karanth Layout public-application/allotment-restraint question, no update on the Siddhartha Vihar Trust BDA complaint, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no update on the flagged BBC (South)/Peripheral Ring Road-2 naming-ambiguity question, no public BDA response to the original BBC Governor petition, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
   ],
 
   layer1: {
