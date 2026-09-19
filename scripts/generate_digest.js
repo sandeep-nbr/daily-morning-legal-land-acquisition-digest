@@ -38,8 +38,8 @@ const AMBER_WATCH = "9C6F00";
 // CONTENT — edit this block each morning with fresh research
 // ---------------------------------------------------------------------------
 const CONTENT = {
-  dateLabel: "Friday, 18 September 2026",
-  editionNo: "Vol. I — Edition 052",
+  dateLabel: "Saturday, 19 September 2026",
+  editionNo: "Vol. I — Edition 053",
 
   execSummary: [
     { tag: "INFO", color: NAVY, text: "A quiet news day across every tracked thread: no update on the Karanth Layout public-application/allotment-restraint question, no update on the Siddhartha Vihar Trust BDA complaint, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no update on the flagged BBC (South)/Peripheral Ring Road-2 naming-ambiguity question, no public BDA response to the original BBC Governor petition, and no developments in TNRERA, HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
