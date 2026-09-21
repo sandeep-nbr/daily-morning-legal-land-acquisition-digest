@@ -38,13 +38,11 @@ const AMBER_WATCH = "9C6F00";
 // CONTENT — edit this block each morning with fresh research
 // ---------------------------------------------------------------------------
 const CONTENT = {
-  dateLabel: "Sunday, 20 September 2026",
-  editionNo: "Vol. I — Edition 054",
+  dateLabel: "Monday, 21 September 2026",
+  editionNo: "Vol. I — Edition 055",
 
   execSummary: [
-    { tag: "INFO", color: NAVY, text: "BDA has invited objections to its proposed 60:40 site-allotment formula for Dr K Shivaram Karanth Layout land-giving landowners (~18,400 sites reserved for them, a slight refinement of the ~18,000 figure previously on file), with a fixed deadline after which late objections will not be considered and BDA will proceed to allot sites per the rules. A further procedural step in the layout's multi-track rollout (landowner allotment, public-application window to 15 Oct, and now a landowner-objection window) already extensively tracked." },
-    { tag: "WATCH", color: AMBER_WATCH, text: "Madras HC (18 Sept 2026, Justice D. Bharatha Chakravarthy, N. Balakrishnan v. TNRERA) held that TNRERA cannot adjudicate disputed questions of land title while examining a project-registration application — it may reject registration where lack of title is apparent on the face of the record, but genuine title disputes must go to a competent civil court, since TNRERA registration does not itself determine ownership. Directly relevant if NBR ever pursues a Chennai project: TNRERA clearance is not proof of clean title." },
-    { tag: "INFO", color: NAVY, text: "Otherwise a quiet day: no update on the Siddhartha Vihar Trust BDA complaint, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no update on the flagged BBC (South)/Peripheral Ring Road-2 naming-ambiguity question, no public BDA response to the original BBC Governor petition, and no developments in HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
+    { tag: "INFO", color: NAVY, text: "A quiet news day across every tracked thread: no update on the Karanth Layout objections window or public-application/allotment-restraint question, no update on the Siddhartha Vihar Trust BDA complaint or the Madras HC TNRERA title-jurisdiction ruling, no new Grade A/mid-tier Bengaluru land deal, no fresh Karnataka HC land ruling beyond what is already on file, no update on the flagged BBC (South)/Peripheral Ring Road-2 naming-ambiguity question, no public BDA response to the original BBC Governor petition, and no developments in HYDRAA, Amaravati or Kerala beyond what is already on file. No new NBR-specific news." },
   ],
 
   layer1: {
